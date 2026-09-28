@@ -53,6 +53,10 @@ SQL-based E-Commerce Business Analytics project built using **MySQL** to analyze
 - `expert_sql_business_cases.sql` — Advanced business cases
 - `E-Commerce-Business-Analytics.pdf` — Project presentation
 
+## 📑 Project Presentation
+
+[View the E-Commerce Business Analytics Presentation](./E-Commerce-Business-Analytics.pdf)
+
 ## 👨‍💻 Author
 
 **Piyush Peraspure**  
